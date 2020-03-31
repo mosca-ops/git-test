@@ -1,0 +1,42 @@
+[33mcommit a5b2cb14ae9fb0c4969e878e3c2632344497ef94[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 30174c5 97dd7b0
+Author: Andrea Moscatelli <a.moscatelli8@gmail.com>
+Date:   Tue Mar 31 11:54:44 2020 +0200
+
+    Merge branch 'test'
+
+[33mcommit 30174c50858fadcf962be70c373b2dd877c37aea[m
+Author: Andrea Moscatelli <a.moscatelli8@gmail.com>
+Date:   Tue Mar 31 11:54:08 2020 +0200
+
+    A comment from master branch
+
+[33mcommit 97dd7b0c1a420c6faf379c0bb2370bcdf40284e8[m[33m ([m[1;32mtest[m[33m)[m
+Author: Andrea Moscatelli <a.moscatelli8@gmail.com>
+Date:   Tue Mar 31 11:52:25 2020 +0200
+
+    Second commit from test branch
+
+[33mcommit 68c1369e2841706c6cdf0da042069041d6b1733e[m[33m ([m[1;31morigin/test[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Andrea Moscatelli <a.moscatelli8@gmail.com>
+Date:   Tue Mar 31 11:43:40 2020 +0200
+
+    Commit from test branch
+
+[33mcommit 8353f525c48cccd2eb342d9f858313b95ea585fc[m
+Author: Andrea Moscatelli <a.moscatelli8@gmail.com>
+Date:   Tue Mar 31 11:28:25 2020 +0200
+
+    Update actitvity_main.xml
+
+[33mcommit 67959ee5f3020d62c62b267e55c0cd03827220e5[m
+Author: Andrea Moscatelli <a.moscatelli8@gmail.com>
+Date:   Tue Mar 31 11:09:24 2020 +0200
+
+    Update .gitignore file
+
+[33mcommit ed0065770f1f89fedcfa668731d8a500ba6d3082[m
+Author: Andrea Moscatelli <a.moscatelli8@gmail.com>
+Date:   Tue Mar 31 10:40:26 2020 +0200
+
+    Initial commit
